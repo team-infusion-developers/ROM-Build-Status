@@ -4,8 +4,8 @@
 For i9300
 ---------
 
-* Optimized LineageOS 16.0- WIP *      
-* Optimized CrDroid Pie- WIP *        
-* Optimized AospExtended Pie- WIP *    
+* Optimized LineageOS 16.0- Almost completed *      
+* Optimized CrDroid Pie- Almost completed *        
+* Optimized AospExtended Pie- Almost completed *    
 * Optimized PixelExperience Pie- WIP *
-* Optimized DotOS Pie- WIP *          
+* Optimized DotOS Pie- Almost completed*          
