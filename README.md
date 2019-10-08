@@ -16,11 +16,6 @@ For i9515 (jfvelte)
 * LineageOS 16.0 - WIP *
 * Bootleggers Pie - WIP *
 
-For N7100
----------
-
-* Optimized LOS16.0 - WIP *
-
 For K3gxx (Galaxy S5 Exynos)
 ----------------------------
 
